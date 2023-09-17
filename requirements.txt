@@ -1,0 +1,4 @@
+pygame
+arcade
+sympy
+shapely
